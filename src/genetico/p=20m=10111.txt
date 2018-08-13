@@ -1,0 +1,1257 @@
+Busca el mejor con cantidad poblacion: 20 y con 10 generaciones ...
+GENERO POBLACION
+
+GENOMA NUMERO 0 Son 15 genes -> -39 -4 -33 -57 -92 -52 25 72 64 -11 -79 45 75 100 -45 Y sus probabilidades de quite son -> 0.25 0.09 0.12  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 1 Son 15 genes -> 55 -6 -38 65 50 60 8 -80 -62 58 -44 -15 -8 -33 31 Y sus probabilidades de quite son -> 0.09 0.4 0.4  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 2 Son 15 genes -> 7 35 11 -30 74 33 66 49 -18 -80 -77 74 -42 78 -83 Y sus probabilidades de quite son -> 0.2 0.08 0.68  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 3 Son 15 genes -> -71 50 88 -82 8 94 3 50 -90 -67 -41 -30 73 66 -96 Y sus probabilidades de quite son -> 0.66 0.87 0.29  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 4 Son 15 genes -> 17 2 -23 99 -28 -50 72 31 -73 90 -100 -30 7 81 -81 Y sus probabilidades de quite son -> 0.56 0.99 0.23  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 5 Son 15 genes -> -63 -49 -73 -53 -16 -64 -33 -93 52 -79 -59 -12 50 8 40 Y sus probabilidades de quite son -> 0.77 0.06 0.88  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 6 Son 15 genes -> -74 -72 -7 -96 68 -57 -26 -26 -77 -57 18 72 21 5 -78 Y sus probabilidades de quite son -> 0.48 0.52 0.07  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 7 Son 15 genes -> 34 69 -36 -15 40 -45 74 -60 63 13 -84 -32 -25 -57 -54 Y sus probabilidades de quite son -> 0.18 0.53 0.87  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 8 Son 15 genes -> 62 -29 -63 35 14 55 7 -66 -41 29 32 61 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 9 Son 15 genes -> -46 -26 -41 67 37 -75 86 -88 -32 -69 -20 15 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 10 Son 15 genes -> 88 -67 -66 -54 12 17 58 -2 32 -64 -3 -68 -95 52 -44 Y sus probabilidades de quite son -> 0.86 0.32 0.44  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 11 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 12 Son 15 genes -> -40 -97 -4 92 90 94 -76 96 -5 -70 -91 63 74 -51 -84 Y sus probabilidades de quite son -> 0.21 0.58 0.49  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 13 Son 15 genes -> -85 -19 -19 93 90 93 -54 -1 -58 33 -58 -12 31 2 -59 Y sus probabilidades de quite son -> 0.73 0.07 0.7  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 14 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 15 Son 15 genes -> 69 -46 -39 61 87 3 99 17 -96 90 -6 -53 -81 -86 15 Y sus probabilidades de quite son -> 0.96 0.71 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 16 Son 15 genes -> 81 8 84 -86 -99 -66 57 -3 -50 29 -28 -42 -9 91 -38 Y sus probabilidades de quite son -> 0.02 0.51 0.52  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 17 Son 15 genes -> -96 -1 16 59 -12 -91 -94 8 -76 -29 3 -97 -67 -67 11 Y sus probabilidades de quite son -> 0.84 0.53 0.37  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 18 Son 15 genes -> -99 54 60 -49 -17 -69 -40 24 -78 22 -74 23 21 81 -78 Y sus probabilidades de quite son -> 0.64 0.1 0.1  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 19 Son 15 genes -> 96 -54 68 70 17 -80 24 50 -47 -66 16 -49 -3 17 -96 Y sus probabilidades de quite son -> 0.94 0.19 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+
+EVALUO POBLACION
+
+GENOMA NUMERO 0 Son 15 genes -> -39 -4 -33 -57 -92 -52 25 72 64 -11 -79 45 75 100 -45 Y sus probabilidades de quite son -> 0.25 0.09 0.12  Puntaje: 14
+	Donde jugo: 19 partidos y gano: 0, perdio: 5, empatados: 14
+
+GENOMA NUMERO 1 Son 15 genes -> 55 -6 -38 65 50 60 8 -80 -62 58 -44 -15 -8 -33 31 Y sus probabilidades de quite son -> 0.09 0.4 0.4  Puntaje: 16
+	Donde jugo: 19 partidos y gano: 0, perdio: 3, empatados: 16
+
+GENOMA NUMERO 2 Son 15 genes -> 7 35 11 -30 74 33 66 49 -18 -80 -77 74 -42 78 -83 Y sus probabilidades de quite son -> 0.2 0.08 0.68  Puntaje: 13
+	Donde jugo: 19 partidos y gano: 0, perdio: 6, empatados: 13
+
+GENOMA NUMERO 3 Son 15 genes -> -71 50 88 -82 8 94 3 50 -90 -67 -41 -30 73 66 -96 Y sus probabilidades de quite son -> 0.66 0.87 0.29  Puntaje: 13
+	Donde jugo: 19 partidos y gano: 0, perdio: 6, empatados: 13
+
+GENOMA NUMERO 4 Son 15 genes -> 17 2 -23 99 -28 -50 72 31 -73 90 -100 -30 7 81 -81 Y sus probabilidades de quite son -> 0.56 0.99 0.23  Puntaje: 15
+	Donde jugo: 19 partidos y gano: 0, perdio: 4, empatados: 15
+
+GENOMA NUMERO 5 Son 15 genes -> -63 -49 -73 -53 -16 -64 -33 -93 52 -79 -59 -12 50 8 40 Y sus probabilidades de quite son -> 0.77 0.06 0.88  Puntaje: 35
+	Donde jugo: 19 partidos y gano: 9, perdio: 2, empatados: 8
+
+GENOMA NUMERO 6 Son 15 genes -> -74 -72 -7 -96 68 -57 -26 -26 -77 -57 18 72 21 5 -78 Y sus probabilidades de quite son -> 0.48 0.52 0.07  Puntaje: 30
+	Donde jugo: 19 partidos y gano: 7, perdio: 3, empatados: 9
+
+GENOMA NUMERO 7 Son 15 genes -> 34 69 -36 -15 40 -45 74 -60 63 13 -84 -32 -25 -57 -54 Y sus probabilidades de quite son -> 0.18 0.53 0.87  Puntaje: 15
+	Donde jugo: 19 partidos y gano: 0, perdio: 4, empatados: 15
+
+GENOMA NUMERO 8 Son 15 genes -> 62 -29 -63 35 14 55 7 -66 -41 29 32 61 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 29
+	Donde jugo: 19 partidos y gano: 6, perdio: 2, empatados: 11
+
+GENOMA NUMERO 9 Son 15 genes -> -46 -26 -41 67 37 -75 86 -88 -32 -69 -20 15 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 36
+	Donde jugo: 19 partidos y gano: 9, perdio: 1, empatados: 9
+
+GENOMA NUMERO 10 Son 15 genes -> 88 -67 -66 -54 12 17 58 -2 32 -64 -3 -68 -95 52 -44 Y sus probabilidades de quite son -> 0.86 0.32 0.44  Puntaje: 15
+	Donde jugo: 19 partidos y gano: 0, perdio: 4, empatados: 15
+
+GENOMA NUMERO 11 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 45
+	Donde jugo: 19 partidos y gano: 13, perdio: 0, empatados: 6
+
+GENOMA NUMERO 12 Son 15 genes -> -40 -97 -4 92 90 94 -76 96 -5 -70 -91 63 74 -51 -84 Y sus probabilidades de quite son -> 0.21 0.58 0.49  Puntaje: 24
+	Donde jugo: 19 partidos y gano: 3, perdio: 1, empatados: 15
+
+GENOMA NUMERO 13 Son 15 genes -> -85 -19 -19 93 90 93 -54 -1 -58 33 -58 -12 31 2 -59 Y sus probabilidades de quite son -> 0.73 0.07 0.7  Puntaje: 22
+	Donde jugo: 19 partidos y gano: 2, perdio: 1, empatados: 16
+
+GENOMA NUMERO 14 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 41
+	Donde jugo: 19 partidos y gano: 11, perdio: 0, empatados: 8
+
+GENOMA NUMERO 15 Son 15 genes -> 69 -46 -39 61 87 3 99 17 -96 90 -6 -53 -81 -86 15 Y sus probabilidades de quite son -> 0.96 0.71 0.63  Puntaje: 18
+	Donde jugo: 19 partidos y gano: 0, perdio: 1, empatados: 18
+
+GENOMA NUMERO 16 Son 15 genes -> 81 8 84 -86 -99 -66 57 -3 -50 29 -28 -42 -9 91 -38 Y sus probabilidades de quite son -> 0.02 0.51 0.52  Puntaje: 13
+	Donde jugo: 19 partidos y gano: 0, perdio: 6, empatados: 13
+
+GENOMA NUMERO 17 Son 15 genes -> -96 -1 16 59 -12 -91 -94 8 -76 -29 3 -97 -67 -67 11 Y sus probabilidades de quite son -> 0.84 0.53 0.37  Puntaje: 16
+	Donde jugo: 19 partidos y gano: 0, perdio: 3, empatados: 16
+
+GENOMA NUMERO 18 Son 15 genes -> -99 54 60 -49 -17 -69 -40 24 -78 22 -74 23 21 81 -78 Y sus probabilidades de quite son -> 0.64 0.1 0.1  Puntaje: 17
+	Donde jugo: 19 partidos y gano: 0, perdio: 2, empatados: 17
+
+GENOMA NUMERO 19 Son 15 genes -> 96 -54 68 70 17 -80 24 50 -47 -66 16 -49 -3 17 -96 Y sus probabilidades de quite son -> 0.94 0.19 0.63  Puntaje: 13
+	Donde jugo: 19 partidos y gano: 0, perdio: 6, empatados: 13
+
+
+Tiempo de evaluacion:4.91668e+06
+EMPIEZO CICLO
+PROCESO DE SELECCION
+
+GENOMA NUMERO 0 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 45
+	Donde jugo: 19 partidos y gano: 13, perdio: 0, empatados: 6
+
+GENOMA NUMERO 1 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 41
+	Donde jugo: 19 partidos y gano: 11, perdio: 0, empatados: 8
+
+GENOMA NUMERO 2 Son 15 genes -> -46 -26 -41 67 37 -75 86 -88 -32 -69 -20 15 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 36
+	Donde jugo: 19 partidos y gano: 9, perdio: 1, empatados: 9
+
+GENOMA NUMERO 3 Son 15 genes -> -63 -49 -73 -53 -16 -64 -33 -93 52 -79 -59 -12 50 8 40 Y sus probabilidades de quite son -> 0.77 0.06 0.88  Puntaje: 35
+	Donde jugo: 19 partidos y gano: 9, perdio: 2, empatados: 8
+
+GENOMA NUMERO 4 Son 15 genes -> -74 -72 -7 -96 68 -57 -26 -26 -77 -57 18 72 21 5 -78 Y sus probabilidades de quite son -> 0.48 0.52 0.07  Puntaje: 30
+	Donde jugo: 19 partidos y gano: 7, perdio: 3, empatados: 9
+
+GENOMA NUMERO 5 Son 15 genes -> -63 -49 -73 -53 -16 -64 -33 -93 52 -79 -59 -12 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 6 Son 15 genes -> 62 -29 -63 35 14 55 7 -66 -41 29 32 61 50 8 40 Y sus probabilidades de quite son -> 0.77 0.06 0.88  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 7 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 8 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 9 Son 15 genes -> 71 -33 -75 -85 90 94 -76 96 -5 -70 -91 63 74 -51 -84 Y sus probabilidades de quite son -> 0.21 0.58 0.49  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 10 Son 15 genes -> -46 -26 -41 67 37 -75 86 -88 -32 -69 -20 15 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 11 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 12 Son 15 genes -> 62 -29 -63 35 14 55 7 -66 -41 29 32 61 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 13 Son 15 genes -> 69 -46 -39 61 87 3 99 17 -96 90 -6 -53 -8 -33 31 Y sus probabilidades de quite son -> 0.09 0.4 0.4  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 14 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 74 -51 -84 Y sus probabilidades de quite son -> 0.21 0.58 0.49  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 15 Son 15 genes -> -40 -97 -4 92 90 94 -76 96 -5 -70 -91 63 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 16 Son 15 genes -> 34 69 -36 -15 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 17 Son 15 genes -> -63 -49 -73 -53 -16 -64 -33 -93 52 -79 -59 -12 -67 -67 11 Y sus probabilidades de quite son -> 0.84 0.53 0.37  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 18 Son 15 genes -> -96 -1 16 59 -12 -91 -94 8 -76 -29 3 -97 50 8 40 Y sus probabilidades de quite son -> 0.77 0.06 0.88  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 19 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 -95 52 -44 Y sus probabilidades de quite son -> 0.86 0.32 0.44  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+
+MUTO POBLACION
+
+GENOMA NUMERO 0 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 45
+	Donde jugo: 19 partidos y gano: 13, perdio: 0, empatados: 6
+
+GENOMA NUMERO 1 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 41
+	Donde jugo: 19 partidos y gano: 11, perdio: 0, empatados: 8
+
+GENOMA NUMERO 2 Son 15 genes -> -46 -26 -41 67 37 -75 86 -88 -32 -69 -20 15 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 36
+	Donde jugo: 19 partidos y gano: 9, perdio: 1, empatados: 9
+
+GENOMA NUMERO 3 Son 15 genes -> -63 -49 -73 -53 -16 -64 -33 -93 52 -79 -59 -12 50 8 40 Y sus probabilidades de quite son -> 0.77 0.06 0.88  Puntaje: 35
+	Donde jugo: 19 partidos y gano: 9, perdio: 2, empatados: 8
+
+GENOMA NUMERO 4 Son 15 genes -> -74 -72 -7 -96 68 -57 -26 -26 -77 -57 18 72 21 5 -78 Y sus probabilidades de quite son -> 0.48 0.52 0.07  Puntaje: 30
+	Donde jugo: 19 partidos y gano: 7, perdio: 3, empatados: 9
+
+GENOMA NUMERO 5 Son 15 genes -> -63 -49 -73 -53 -16 -64 -33 -93 52 -79 -59 -12 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 6 Son 15 genes -> 62 -29 -63 35 14 55 7 -66 -41 29 32 61 50 8 40 Y sus probabilidades de quite son -> 0.77 0.06 0.88  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 7 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 8 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 9 Son 15 genes -> 71 -33 -75 -85 90 94 -76 96 -5 -70 -91 63 74 -51 -84 Y sus probabilidades de quite son -> 0.21 0.58 0.49  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 10 Son 15 genes -> -46 -26 -41 67 37 -75 86 -88 -32 -69 -20 15 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 11 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 12 Son 15 genes -> 62 -29 -63 35 14 55 7 -66 -41 29 32 61 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 13 Son 15 genes -> 69 -46 -39 61 87 3 99 17 -96 90 -6 -53 -8 -33 31 Y sus probabilidades de quite son -> 0.09 0.4 0.4  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 14 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 74 -51 -84 Y sus probabilidades de quite son -> 0.21 0.58 0.49  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 15 Son 15 genes -> -40 -97 -4 92 90 94 -76 96 -5 -70 -91 63 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 16 Son 15 genes -> 34 69 -36 -15 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 17 Son 15 genes -> -63 -49 -73 -53 -16 -64 -33 -93 52 -79 -59 -12 -67 -67 11 Y sus probabilidades de quite son -> 0.84 0.53 0.37  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 18 Son 15 genes -> -96 -1 16 59 -12 -91 -94 8 -76 -29 3 -97 50 8 40 Y sus probabilidades de quite son -> 0.77 0.06 0.88  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 19 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 -95 52 -44 Y sus probabilidades de quite son -> 0.86 0.32 0.44  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+
+EVALUO POBLACION
+
+GENOMA NUMERO 0 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 40
+	Donde jugo: 19 partidos y gano: 11, perdio: 1, empatados: 7
+
+GENOMA NUMERO 1 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 32
+	Donde jugo: 19 partidos y gano: 8, perdio: 3, empatados: 8
+
+GENOMA NUMERO 2 Son 15 genes -> -46 -26 -41 67 37 -75 86 -88 -32 -69 -20 15 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 33
+	Donde jugo: 19 partidos y gano: 8, perdio: 2, empatados: 9
+
+GENOMA NUMERO 3 Son 15 genes -> -63 -49 -73 -53 -16 -64 -33 -93 52 -79 -59 -12 50 8 40 Y sus probabilidades de quite son -> 0.77 0.06 0.88  Puntaje: 21
+	Donde jugo: 19 partidos y gano: 4, perdio: 6, empatados: 9
+
+GENOMA NUMERO 4 Son 15 genes -> -74 -72 -7 -96 68 -57 -26 -26 -77 -57 18 72 21 5 -78 Y sus probabilidades de quite son -> 0.48 0.52 0.07  Puntaje: 27
+	Donde jugo: 19 partidos y gano: 5, perdio: 2, empatados: 12
+
+GENOMA NUMERO 5 Son 15 genes -> -63 -49 -73 -53 -16 -64 -33 -93 52 -79 -59 -12 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 25
+	Donde jugo: 19 partidos y gano: 4, perdio: 2, empatados: 13
+
+GENOMA NUMERO 6 Son 15 genes -> 62 -29 -63 35 14 55 7 -66 -41 29 32 61 50 8 40 Y sus probabilidades de quite son -> 0.77 0.06 0.88  Puntaje: 18
+	Donde jugo: 19 partidos y gano: 2, perdio: 5, empatados: 12
+
+GENOMA NUMERO 7 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 35
+	Donde jugo: 19 partidos y gano: 9, perdio: 2, empatados: 8
+
+GENOMA NUMERO 8 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 27
+	Donde jugo: 19 partidos y gano: 5, perdio: 2, empatados: 12
+
+GENOMA NUMERO 9 Son 15 genes -> 71 -33 -75 -85 90 94 -76 96 -5 -70 -91 63 74 -51 -84 Y sus probabilidades de quite son -> 0.21 0.58 0.49  Puntaje: 10
+	Donde jugo: 19 partidos y gano: 1, perdio: 11, empatados: 7
+
+GENOMA NUMERO 10 Son 15 genes -> -46 -26 -41 67 37 -75 86 -88 -32 -69 -20 15 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 29
+	Donde jugo: 19 partidos y gano: 6, perdio: 2, empatados: 11
+
+GENOMA NUMERO 11 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 25
+	Donde jugo: 19 partidos y gano: 5, perdio: 4, empatados: 10
+
+GENOMA NUMERO 12 Son 15 genes -> 62 -29 -63 35 14 55 7 -66 -41 29 32 61 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 30
+	Donde jugo: 19 partidos y gano: 7, perdio: 3, empatados: 9
+
+GENOMA NUMERO 13 Son 15 genes -> 69 -46 -39 61 87 3 99 17 -96 90 -6 -53 -8 -33 31 Y sus probabilidades de quite son -> 0.09 0.4 0.4  Puntaje: 6
+	Donde jugo: 19 partidos y gano: 0, perdio: 13, empatados: 6
+
+GENOMA NUMERO 14 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 74 -51 -84 Y sus probabilidades de quite son -> 0.21 0.58 0.49  Puntaje: 20
+	Donde jugo: 19 partidos y gano: 3, perdio: 5, empatados: 11
+
+GENOMA NUMERO 15 Son 15 genes -> -40 -97 -4 92 90 94 -76 96 -5 -70 -91 63 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 25
+	Donde jugo: 19 partidos y gano: 3, perdio: 0, empatados: 16
+
+GENOMA NUMERO 16 Son 15 genes -> 34 69 -36 -15 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 26
+	Donde jugo: 19 partidos y gano: 5, perdio: 3, empatados: 11
+
+GENOMA NUMERO 17 Son 15 genes -> -63 -49 -73 -53 -16 -64 -33 -93 52 -79 -59 -12 -67 -67 11 Y sus probabilidades de quite son -> 0.84 0.53 0.37  Puntaje: 9
+	Donde jugo: 19 partidos y gano: 0, perdio: 10, empatados: 9
+
+GENOMA NUMERO 18 Son 15 genes -> -96 -1 16 59 -12 -91 -94 8 -76 -29 3 -97 50 8 40 Y sus probabilidades de quite son -> 0.77 0.06 0.88  Puntaje: 13
+	Donde jugo: 19 partidos y gano: 0, perdio: 6, empatados: 13
+
+GENOMA NUMERO 19 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 -95 52 -44 Y sus probabilidades de quite son -> 0.86 0.32 0.44  Puntaje: 15
+	Donde jugo: 19 partidos y gano: 0, perdio: 4, empatados: 15
+
+
+MUESTRO MAXIMO OBTENIDO
+
+Generacion: 1 el puntaje max es: 40
+Donde jugo: 19 partidos y gano: 11, perdio: 1, empatados: 7
+De los cuales Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 40
+Tiempo de seleccion:0.503878
+Tiempo de mutar:0.000766
+Tiempo de evaluar poblacion:8.37064e+06
+
+--------------------------------------------------------------------------------------------------------------------
+
+PROCESO DE SELECCION
+
+GENOMA NUMERO 0 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 40
+	Donde jugo: 19 partidos y gano: 11, perdio: 1, empatados: 7
+
+GENOMA NUMERO 1 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 35
+	Donde jugo: 19 partidos y gano: 9, perdio: 2, empatados: 8
+
+GENOMA NUMERO 2 Son 15 genes -> -46 -26 -41 67 37 -75 86 -88 -32 -69 -20 15 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 33
+	Donde jugo: 19 partidos y gano: 8, perdio: 2, empatados: 9
+
+GENOMA NUMERO 3 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 32
+	Donde jugo: 19 partidos y gano: 8, perdio: 3, empatados: 8
+
+GENOMA NUMERO 4 Son 15 genes -> 62 -29 -63 35 14 55 7 -66 -41 29 32 61 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 30
+	Donde jugo: 19 partidos y gano: 7, perdio: 3, empatados: 9
+
+GENOMA NUMERO 5 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -70 -91 63 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 6 Son 15 genes -> -40 -97 -4 92 90 94 -76 96 -5 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 7 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 74 -51 -84 Y sus probabilidades de quite son -> 0.21 0.58 0.49  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 8 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 9 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 10 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 11 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 50 8 40 Y sus probabilidades de quite son -> 0.77 0.06 0.88  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 12 Son 15 genes -> 62 -29 -63 35 14 55 7 -66 -41 29 32 61 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 13 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 14 Son 15 genes -> -46 -26 -41 67 37 -75 86 -88 -32 -69 -20 15 21 5 -78 Y sus probabilidades de quite son -> 0.48 0.52 0.07  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 15 Son 15 genes -> -74 -72 -7 -96 68 -57 -26 -26 -77 -57 18 72 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 16 Son 15 genes -> -74 -72 -7 -96 68 -57 -26 -26 -77 -57 18 72 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 17 Son 15 genes -> 71 -33 -75 -85 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 18 Son 15 genes -> -60 -47 6 8 -2 -65 28 -79 -66 -6 -49 42 74 -51 -84 Y sus probabilidades de quite son -> 0.21 0.58 0.49  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 19 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+
+MUTO POBLACION
+
+GENOMA NUMERO 0 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 40
+	Donde jugo: 19 partidos y gano: 11, perdio: 1, empatados: 7
+
+GENOMA NUMERO 1 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 35
+	Donde jugo: 19 partidos y gano: 9, perdio: 2, empatados: 8
+
+GENOMA NUMERO 2 Son 15 genes -> -46 -26 -41 67 37 -75 86 -88 -32 -69 -20 15 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 33
+	Donde jugo: 19 partidos y gano: 8, perdio: 2, empatados: 9
+
+GENOMA NUMERO 3 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 32
+	Donde jugo: 19 partidos y gano: 8, perdio: 3, empatados: 8
+
+GENOMA NUMERO 4 Son 15 genes -> 62 -29 -63 35 14 55 7 -66 -41 29 32 61 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 30
+	Donde jugo: 19 partidos y gano: 7, perdio: 3, empatados: 9
+
+GENOMA NUMERO 5 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -70 -91 63 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 6 Son 15 genes -> -40 -97 -4 92 90 94 -76 96 -5 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 7 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 74 -51 -84 Y sus probabilidades de quite son -> 0.21 0.58 0.49  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 8 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 9 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 10 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 11 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 50 8 40 Y sus probabilidades de quite son -> 0.77 0.06 0.88  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 12 Son 15 genes -> 62 -29 -63 35 14 55 7 -66 -41 29 32 61 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 13 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 14 Son 15 genes -> -46 -26 -41 67 37 -75 86 -88 -32 -69 -20 15 21 5 -78 Y sus probabilidades de quite son -> 0.48 0.52 0.07  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 15 Son 15 genes -> -74 -72 -7 -96 68 -57 -26 -26 -77 -57 18 72 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 16 Son 15 genes -> -74 -72 -7 -96 68 -57 -26 -26 -77 -57 18 72 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 17 Son 15 genes -> 71 -33 -75 -85 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 18 Son 15 genes -> -60 -47 6 8 -2 -65 28 -79 -66 -6 -49 42 74 -51 -84 Y sus probabilidades de quite son -> 0.21 0.58 0.49  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 19 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+
+EVALUO POBLACION
+
+GENOMA NUMERO 0 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 31
+	Donde jugo: 19 partidos y gano: 6, perdio: 0, empatados: 13
+
+GENOMA NUMERO 1 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 30
+	Donde jugo: 19 partidos y gano: 6, perdio: 1, empatados: 12
+
+GENOMA NUMERO 2 Son 15 genes -> -46 -26 -41 67 37 -75 86 -88 -32 -69 -20 15 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 20
+	Donde jugo: 19 partidos y gano: 3, perdio: 5, empatados: 11
+
+GENOMA NUMERO 3 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 28
+	Donde jugo: 19 partidos y gano: 6, perdio: 3, empatados: 10
+
+GENOMA NUMERO 4 Son 15 genes -> 62 -29 -63 35 14 55 7 -66 -41 29 32 61 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 25
+	Donde jugo: 19 partidos y gano: 4, perdio: 2, empatados: 13
+
+GENOMA NUMERO 5 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -70 -91 63 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 15
+	Donde jugo: 19 partidos y gano: 0, perdio: 4, empatados: 15
+
+GENOMA NUMERO 6 Son 15 genes -> -40 -97 -4 92 90 94 -76 96 -5 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 18
+	Donde jugo: 19 partidos y gano: 1, perdio: 3, empatados: 15
+
+GENOMA NUMERO 7 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 74 -51 -84 Y sus probabilidades de quite son -> 0.21 0.58 0.49  Puntaje: 17
+	Donde jugo: 19 partidos y gano: 1, perdio: 4, empatados: 14
+
+GENOMA NUMERO 8 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 31
+	Donde jugo: 19 partidos y gano: 7, perdio: 2, empatados: 10
+
+GENOMA NUMERO 9 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 22
+	Donde jugo: 19 partidos y gano: 2, perdio: 1, empatados: 16
+
+GENOMA NUMERO 10 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 26
+	Donde jugo: 19 partidos y gano: 5, perdio: 3, empatados: 11
+
+GENOMA NUMERO 11 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 50 8 40 Y sus probabilidades de quite son -> 0.77 0.06 0.88  Puntaje: 24
+	Donde jugo: 19 partidos y gano: 4, perdio: 3, empatados: 12
+
+GENOMA NUMERO 12 Son 15 genes -> 62 -29 -63 35 14 55 7 -66 -41 29 32 61 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 23
+	Donde jugo: 19 partidos y gano: 4, perdio: 4, empatados: 11
+
+GENOMA NUMERO 13 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 19
+	Donde jugo: 19 partidos y gano: 2, perdio: 4, empatados: 13
+
+GENOMA NUMERO 14 Son 15 genes -> -46 -26 -41 67 37 -75 86 -88 -32 -69 -20 15 21 5 -78 Y sus probabilidades de quite son -> 0.48 0.52 0.07  Puntaje: 10
+	Donde jugo: 19 partidos y gano: 0, perdio: 9, empatados: 10
+
+GENOMA NUMERO 15 Son 15 genes -> -74 -72 -7 -96 68 -57 -26 -26 -77 -57 18 72 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 26
+	Donde jugo: 19 partidos y gano: 5, perdio: 3, empatados: 11
+
+GENOMA NUMERO 16 Son 15 genes -> -74 -72 -7 -96 68 -57 -26 -26 -77 -57 18 72 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 15
+	Donde jugo: 19 partidos y gano: 1, perdio: 6, empatados: 12
+
+GENOMA NUMERO 17 Son 15 genes -> 71 -33 -75 -85 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 25
+	Donde jugo: 19 partidos y gano: 5, perdio: 4, empatados: 10
+
+GENOMA NUMERO 18 Son 15 genes -> -60 -47 6 8 -2 -65 28 -79 -66 -6 -49 42 74 -51 -84 Y sus probabilidades de quite son -> 0.21 0.58 0.49  Puntaje: 14
+	Donde jugo: 19 partidos y gano: 1, perdio: 7, empatados: 11
+
+GENOMA NUMERO 19 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 31
+	Donde jugo: 19 partidos y gano: 7, perdio: 2, empatados: 10
+
+
+MUESTRO MAXIMO OBTENIDO
+
+Generacion: 2 el puntaje max es: 31
+Donde jugo: 19 partidos y gano: 6, perdio: 0, empatados: 13
+De los cuales Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 31
+Tiempo de seleccion:0.462236
+Tiempo de mutar:0.00089
+Tiempo de evaluar poblacion:1.04736e+07
+
+--------------------------------------------------------------------------------------------------------------------
+
+PROCESO DE SELECCION
+
+GENOMA NUMERO 0 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 31
+	Donde jugo: 19 partidos y gano: 6, perdio: 0, empatados: 13
+
+GENOMA NUMERO 1 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 31
+	Donde jugo: 19 partidos y gano: 7, perdio: 2, empatados: 10
+
+GENOMA NUMERO 2 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 31
+	Donde jugo: 19 partidos y gano: 7, perdio: 2, empatados: 10
+
+GENOMA NUMERO 3 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 30
+	Donde jugo: 19 partidos y gano: 6, perdio: 1, empatados: 12
+
+GENOMA NUMERO 4 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 28
+	Donde jugo: 19 partidos y gano: 6, perdio: 3, empatados: 10
+
+GENOMA NUMERO 5 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 6 Son 15 genes -> 17 2 -23 99 -2 -65 28 -79 -66 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 7 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 8 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 -57 18 72 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 9 Son 15 genes -> -74 -72 -7 -96 68 -57 -26 -26 -77 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 10 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 11 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 12 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 13 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 14 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 15 Son 15 genes -> -46 -26 -41 67 37 -75 86 -88 -32 -69 -20 15 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 16 Son 15 genes -> -74 -72 -7 -96 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 17 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 18 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 19 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+
+MUTO POBLACION
+
+GENOMA NUMERO 0 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 31
+	Donde jugo: 19 partidos y gano: 6, perdio: 0, empatados: 13
+
+GENOMA NUMERO 1 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 31
+	Donde jugo: 19 partidos y gano: 7, perdio: 2, empatados: 10
+
+GENOMA NUMERO 2 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 31
+	Donde jugo: 19 partidos y gano: 7, perdio: 2, empatados: 10
+
+GENOMA NUMERO 3 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 30
+	Donde jugo: 19 partidos y gano: 6, perdio: 1, empatados: 12
+
+GENOMA NUMERO 4 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 28
+	Donde jugo: 19 partidos y gano: 6, perdio: 3, empatados: 10
+
+GENOMA NUMERO 5 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 6 Son 15 genes -> 17 2 -23 99 -2 -65 28 -79 -66 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 7 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 8 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 -57 18 72 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 9 Son 15 genes -> -74 -72 -7 -96 68 -57 -26 -26 -77 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 10 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 11 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 12 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 13 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 14 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 15 Son 15 genes -> -46 -26 -41 67 37 -75 86 -88 -32 -69 -20 15 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 16 Son 15 genes -> -74 -72 -7 -96 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 17 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 18 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 19 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+
+EVALUO POBLACION
+
+GENOMA NUMERO 0 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 38
+	Donde jugo: 19 partidos y gano: 10, perdio: 1, empatados: 8
+
+GENOMA NUMERO 1 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 21
+	Donde jugo: 19 partidos y gano: 4, perdio: 6, empatados: 9
+
+GENOMA NUMERO 2 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 24
+	Donde jugo: 19 partidos y gano: 5, perdio: 5, empatados: 9
+
+GENOMA NUMERO 3 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 32
+	Donde jugo: 19 partidos y gano: 8, perdio: 3, empatados: 8
+
+GENOMA NUMERO 4 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 30
+	Donde jugo: 19 partidos y gano: 7, perdio: 3, empatados: 9
+
+GENOMA NUMERO 5 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 31
+	Donde jugo: 19 partidos y gano: 7, perdio: 2, empatados: 10
+
+GENOMA NUMERO 6 Son 15 genes -> 17 2 -23 99 -2 -65 28 -79 -66 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 12
+	Donde jugo: 19 partidos y gano: 1, perdio: 9, empatados: 9
+
+GENOMA NUMERO 7 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 6
+	Donde jugo: 19 partidos y gano: 0, perdio: 13, empatados: 6
+
+GENOMA NUMERO 8 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 -57 18 72 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 15
+	Donde jugo: 19 partidos y gano: 1, perdio: 6, empatados: 12
+
+GENOMA NUMERO 9 Son 15 genes -> -74 -72 -7 -96 68 -57 -26 -26 -77 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 26
+	Donde jugo: 19 partidos y gano: 5, perdio: 3, empatados: 11
+
+GENOMA NUMERO 10 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 22
+	Donde jugo: 19 partidos y gano: 3, perdio: 3, empatados: 13
+
+GENOMA NUMERO 11 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 25
+	Donde jugo: 19 partidos y gano: 6, perdio: 6, empatados: 7
+
+GENOMA NUMERO 12 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 20
+	Donde jugo: 19 partidos y gano: 3, perdio: 5, empatados: 11
+
+GENOMA NUMERO 13 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 24
+	Donde jugo: 19 partidos y gano: 5, perdio: 5, empatados: 9
+
+GENOMA NUMERO 14 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 23
+	Donde jugo: 19 partidos y gano: 4, perdio: 4, empatados: 11
+
+GENOMA NUMERO 15 Son 15 genes -> -46 -26 -41 67 37 -75 86 -88 -32 -69 -20 15 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 24
+	Donde jugo: 19 partidos y gano: 4, perdio: 3, empatados: 12
+
+GENOMA NUMERO 16 Son 15 genes -> -74 -72 -7 -96 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 24
+	Donde jugo: 19 partidos y gano: 5, perdio: 5, empatados: 9
+
+GENOMA NUMERO 17 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 15
+	Donde jugo: 19 partidos y gano: 3, perdio: 10, empatados: 6
+
+GENOMA NUMERO 18 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 31
+	Donde jugo: 19 partidos y gano: 8, perdio: 4, empatados: 7
+
+GENOMA NUMERO 19 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 34
+	Donde jugo: 19 partidos y gano: 8, perdio: 1, empatados: 10
+
+
+MUESTRO MAXIMO OBTENIDO
+
+Generacion: 3 el puntaje max es: 38
+Donde jugo: 19 partidos y gano: 10, perdio: 1, empatados: 8
+De los cuales Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 38
+Tiempo de seleccion:0.534861
+Tiempo de mutar:0.000669
+Tiempo de evaluar poblacion:1.08107e+07
+
+--------------------------------------------------------------------------------------------------------------------
+
+PROCESO DE SELECCION
+
+GENOMA NUMERO 0 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 38
+	Donde jugo: 19 partidos y gano: 10, perdio: 1, empatados: 8
+
+GENOMA NUMERO 1 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 34
+	Donde jugo: 19 partidos y gano: 8, perdio: 1, empatados: 10
+
+GENOMA NUMERO 2 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 32
+	Donde jugo: 19 partidos y gano: 8, perdio: 3, empatados: 8
+
+GENOMA NUMERO 3 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 31
+	Donde jugo: 19 partidos y gano: 7, perdio: 2, empatados: 10
+
+GENOMA NUMERO 4 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 31
+	Donde jugo: 19 partidos y gano: 8, perdio: 4, empatados: 7
+
+GENOMA NUMERO 5 Son 15 genes -> -46 -26 -41 67 37 -75 86 -88 -32 -69 -20 15 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 6 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 7 Son 15 genes -> 71 -33 -75 -85 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 8 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 9 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 10 Son 15 genes -> 71 -33 -75 -85 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 11 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 12 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 13 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 14 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 9 12 4 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 15 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 16 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 17 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 18 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 19 Son 15 genes -> -74 -72 -7 -96 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+
+MUTO POBLACION
+
+GENOMA NUMERO 0 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 38
+	Donde jugo: 19 partidos y gano: 10, perdio: 1, empatados: 8
+
+GENOMA NUMERO 1 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 34
+	Donde jugo: 19 partidos y gano: 8, perdio: 1, empatados: 10
+
+GENOMA NUMERO 2 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 32
+	Donde jugo: 19 partidos y gano: 8, perdio: 3, empatados: 8
+
+GENOMA NUMERO 3 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 31
+	Donde jugo: 19 partidos y gano: 7, perdio: 2, empatados: 10
+
+GENOMA NUMERO 4 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 31
+	Donde jugo: 19 partidos y gano: 8, perdio: 4, empatados: 7
+
+GENOMA NUMERO 5 Son 15 genes -> -46 -26 -41 67 37 -75 86 -88 -32 -69 -20 15 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 6 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 7 Son 15 genes -> 71 -33 -75 -85 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 8 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 9 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 10 Son 15 genes -> 71 -33 -75 -85 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 11 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 12 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 13 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 14 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 9 12 4 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 15 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 16 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 17 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 18 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 19 Son 15 genes -> -74 -72 -7 -96 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+
+EVALUO POBLACION
+
+GENOMA NUMERO 0 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 35
+	Donde jugo: 19 partidos y gano: 9, perdio: 2, empatados: 8
+
+GENOMA NUMERO 1 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 26
+	Donde jugo: 19 partidos y gano: 4, perdio: 1, empatados: 14
+
+GENOMA NUMERO 2 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 33
+	Donde jugo: 19 partidos y gano: 8, perdio: 2, empatados: 9
+
+GENOMA NUMERO 3 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 31
+	Donde jugo: 19 partidos y gano: 6, perdio: 0, empatados: 13
+
+GENOMA NUMERO 4 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 22
+	Donde jugo: 19 partidos y gano: 5, perdio: 7, empatados: 7
+
+GENOMA NUMERO 5 Son 15 genes -> -46 -26 -41 67 37 -75 86 -88 -32 -69 -20 15 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 17
+	Donde jugo: 19 partidos y gano: 2, perdio: 6, empatados: 11
+
+GENOMA NUMERO 6 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 28
+	Donde jugo: 19 partidos y gano: 7, perdio: 5, empatados: 7
+
+GENOMA NUMERO 7 Son 15 genes -> 71 -33 -75 -85 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 12
+	Donde jugo: 19 partidos y gano: 0, perdio: 7, empatados: 12
+
+GENOMA NUMERO 8 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 25
+	Donde jugo: 19 partidos y gano: 4, perdio: 2, empatados: 13
+
+GENOMA NUMERO 9 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 15
+	Donde jugo: 19 partidos y gano: 0, perdio: 4, empatados: 15
+
+GENOMA NUMERO 10 Son 15 genes -> 71 -33 -75 -85 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 20
+	Donde jugo: 19 partidos y gano: 2, perdio: 3, empatados: 14
+
+GENOMA NUMERO 11 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 17
+	Donde jugo: 19 partidos y gano: 1, perdio: 4, empatados: 14
+
+GENOMA NUMERO 12 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 37
+	Donde jugo: 19 partidos y gano: 9, perdio: 0, empatados: 10
+
+GENOMA NUMERO 13 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 29
+	Donde jugo: 19 partidos y gano: 7, perdio: 4, empatados: 8
+
+GENOMA NUMERO 14 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 9 12 4 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 14
+	Donde jugo: 19 partidos y gano: 1, perdio: 7, empatados: 11
+
+GENOMA NUMERO 15 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 27
+	Donde jugo: 19 partidos y gano: 5, perdio: 2, empatados: 12
+
+GENOMA NUMERO 16 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 15
+	Donde jugo: 19 partidos y gano: 3, perdio: 10, empatados: 6
+
+GENOMA NUMERO 17 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 86 -85 -21 Y sus probabilidades de quite son -> 0.51 0.01 0.81  Puntaje: 8
+	Donde jugo: 19 partidos y gano: 0, perdio: 11, empatados: 8
+
+GENOMA NUMERO 18 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 29
+	Donde jugo: 19 partidos y gano: 7, perdio: 4, empatados: 8
+
+GENOMA NUMERO 19 Son 15 genes -> -74 -72 -7 -96 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 25
+	Donde jugo: 19 partidos y gano: 5, perdio: 4, empatados: 10
+
+
+MUESTRO MAXIMO OBTENIDO
+
+Generacion: 4 el puntaje max es: 37
+Donde jugo: 19 partidos y gano: 9, perdio: 0, empatados: 10
+De los cuales Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 37
+Tiempo de seleccion:0.525976
+Tiempo de mutar:0.000779
+Tiempo de evaluar poblacion:8.87652e+06
+
+--------------------------------------------------------------------------------------------------------------------
+
+PROCESO DE SELECCION
+
+GENOMA NUMERO 0 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 37
+	Donde jugo: 19 partidos y gano: 9, perdio: 0, empatados: 10
+
+GENOMA NUMERO 1 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 35
+	Donde jugo: 19 partidos y gano: 9, perdio: 2, empatados: 8
+
+GENOMA NUMERO 2 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 33
+	Donde jugo: 19 partidos y gano: 8, perdio: 2, empatados: 9
+
+GENOMA NUMERO 3 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 31
+	Donde jugo: 19 partidos y gano: 6, perdio: 0, empatados: 13
+
+GENOMA NUMERO 4 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 29
+	Donde jugo: 19 partidos y gano: 7, perdio: 4, empatados: 8
+
+GENOMA NUMERO 5 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 6 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 7 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 8 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 9 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 10 Son 15 genes -> -74 -72 -7 -96 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 11 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 12 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 13 Son 15 genes -> -60 -47 6 8 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 14 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 15 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 16 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 17 Son 15 genes -> -60 -47 6 8 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 18 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 19 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+
+MUTO POBLACION
+
+GENOMA NUMERO 0 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 37
+	Donde jugo: 19 partidos y gano: 9, perdio: 0, empatados: 10
+
+GENOMA NUMERO 1 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 35
+	Donde jugo: 19 partidos y gano: 9, perdio: 2, empatados: 8
+
+GENOMA NUMERO 2 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 33
+	Donde jugo: 19 partidos y gano: 8, perdio: 2, empatados: 9
+
+GENOMA NUMERO 3 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 31
+	Donde jugo: 19 partidos y gano: 6, perdio: 0, empatados: 13
+
+GENOMA NUMERO 4 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 29
+	Donde jugo: 19 partidos y gano: 7, perdio: 4, empatados: 8
+
+GENOMA NUMERO 5 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 6 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 7 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 8 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 9 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 10 Son 15 genes -> -74 -72 -7 -96 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 11 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 12 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 13 Son 15 genes -> -60 -47 6 8 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 14 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 15 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 16 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 17 Son 15 genes -> -60 -47 6 8 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 18 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 19 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+
+EVALUO POBLACION
+
+GENOMA NUMERO 0 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 24
+	Donde jugo: 19 partidos y gano: 5, perdio: 5, empatados: 9
+
+GENOMA NUMERO 1 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 35
+	Donde jugo: 19 partidos y gano: 9, perdio: 2, empatados: 8
+
+GENOMA NUMERO 2 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 28
+	Donde jugo: 19 partidos y gano: 7, perdio: 5, empatados: 7
+
+GENOMA NUMERO 3 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 21
+	Donde jugo: 19 partidos y gano: 4, perdio: 6, empatados: 9
+
+GENOMA NUMERO 4 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 15
+	Donde jugo: 19 partidos y gano: 3, perdio: 10, empatados: 6
+
+GENOMA NUMERO 5 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 29
+	Donde jugo: 19 partidos y gano: 7, perdio: 4, empatados: 8
+
+GENOMA NUMERO 6 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 22
+	Donde jugo: 19 partidos y gano: 4, perdio: 5, empatados: 10
+
+GENOMA NUMERO 7 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 18
+	Donde jugo: 19 partidos y gano: 3, perdio: 7, empatados: 9
+
+GENOMA NUMERO 8 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 20
+	Donde jugo: 19 partidos y gano: 3, perdio: 5, empatados: 11
+
+GENOMA NUMERO 9 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 35
+	Donde jugo: 19 partidos y gano: 11, perdio: 6, empatados: 2
+
+GENOMA NUMERO 10 Son 15 genes -> -74 -72 -7 -96 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 41
+	Donde jugo: 19 partidos y gano: 12, perdio: 2, empatados: 5
+
+GENOMA NUMERO 11 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 16
+	Donde jugo: 19 partidos y gano: 2, perdio: 7, empatados: 10
+
+GENOMA NUMERO 12 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 24
+	Donde jugo: 19 partidos y gano: 5, perdio: 5, empatados: 9
+
+GENOMA NUMERO 13 Son 15 genes -> -60 -47 6 8 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 34
+	Donde jugo: 19 partidos y gano: 8, perdio: 1, empatados: 10
+
+GENOMA NUMERO 14 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 29
+	Donde jugo: 19 partidos y gano: 9, perdio: 8, empatados: 2
+
+GENOMA NUMERO 15 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 31
+	Donde jugo: 19 partidos y gano: 7, perdio: 2, empatados: 10
+
+GENOMA NUMERO 16 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 9
+	Donde jugo: 19 partidos y gano: 1, perdio: 12, empatados: 6
+
+GENOMA NUMERO 17 Son 15 genes -> -60 -47 6 8 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 28
+	Donde jugo: 19 partidos y gano: 5, perdio: 1, empatados: 13
+
+GENOMA NUMERO 18 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 15
+	Donde jugo: 19 partidos y gano: 0, perdio: 4, empatados: 15
+
+GENOMA NUMERO 19 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 96 -59 86 Y sus probabilidades de quite son -> 0.68 0.27 0.5  Puntaje: 11
+	Donde jugo: 19 partidos y gano: 0, perdio: 8, empatados: 11
+
+
+MUESTRO MAXIMO OBTENIDO
+
+Generacion: 5 el puntaje max es: 41
+Donde jugo: 19 partidos y gano: 12, perdio: 2, empatados: 5
+De los cuales Son 15 genes -> -74 -72 -7 -96 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 41
+Tiempo de seleccion:0.460431
+Tiempo de mutar:0.000584
+Tiempo de evaluar poblacion:4.37514e+06
+
+--------------------------------------------------------------------------------------------------------------------
+
+PROCESO DE SELECCION
+
+GENOMA NUMERO 0 Son 15 genes -> -74 -72 -7 -96 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 41
+	Donde jugo: 19 partidos y gano: 12, perdio: 2, empatados: 5
+
+GENOMA NUMERO 1 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 35
+	Donde jugo: 19 partidos y gano: 9, perdio: 2, empatados: 8
+
+GENOMA NUMERO 2 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 35
+	Donde jugo: 19 partidos y gano: 11, perdio: 6, empatados: 2
+
+GENOMA NUMERO 3 Son 15 genes -> -60 -47 6 8 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 34
+	Donde jugo: 19 partidos y gano: 8, perdio: 1, empatados: 10
+
+GENOMA NUMERO 4 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 31
+	Donde jugo: 19 partidos y gano: 7, perdio: 2, empatados: 10
+
+GENOMA NUMERO 5 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 6 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 7 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 8 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 9 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 10 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 11 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 12 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 13 Son 15 genes -> 71 -33 -75 -85 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 14 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 15 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 16 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 17 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 18 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 19 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+
+MUTO POBLACION
+
+GENOMA NUMERO 0 Son 15 genes -> -74 -72 -7 -96 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 41
+	Donde jugo: 19 partidos y gano: 12, perdio: 2, empatados: 5
+
+GENOMA NUMERO 1 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 35
+	Donde jugo: 19 partidos y gano: 9, perdio: 2, empatados: 8
+
+GENOMA NUMERO 2 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 35
+	Donde jugo: 19 partidos y gano: 11, perdio: 6, empatados: 2
+
+GENOMA NUMERO 3 Son 15 genes -> -60 -47 6 8 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 34
+	Donde jugo: 19 partidos y gano: 8, perdio: 1, empatados: 10
+
+GENOMA NUMERO 4 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 31
+	Donde jugo: 19 partidos y gano: 7, perdio: 2, empatados: 10
+
+GENOMA NUMERO 5 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 6 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 7 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 8 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 9 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 10 Son 15 genes -> 17 2 -23 99 -15 86 74 -20 78 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 11 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 12 Son 15 genes -> -40 -97 -4 92 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 13 Son 15 genes -> 71 -33 -75 -85 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 14 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 15 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 16 Son 15 genes -> -60 -47 6 8 -15 86 74 -20 78 9 12 4 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 17 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 18 Son 15 genes -> 71 -33 -75 -85 -2 -65 28 -79 -66 -6 -49 42 59 -51 -13 Y sus probabilidades de quite son -> 0.94 0.54 0.99  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+GENOMA NUMERO 19 Son 15 genes -> -40 -97 -4 92 -2 -65 28 -79 -66 -6 -49 42 45 -34 -78 Y sus probabilidades de quite son -> 0.75 0.92 0.63  Puntaje: 0
+	Donde jugo: 0 partidos y gano: 0, perdio: 0, empatados: 0
+
+
+EVALUO POBLACION
+

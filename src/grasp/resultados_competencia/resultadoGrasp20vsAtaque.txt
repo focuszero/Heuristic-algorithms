@@ -1,0 +1,18 @@
+Los del equipo A:
+Puntajes del equipo 0partidos jugados:5gano:0perdio:2empato:3puntaje:3
+Puntajes del equipo 1partidos jugados:5gano:0perdio:5empato:0puntaje:0
+Puntajes del equipo 2partidos jugados:5gano:0perdio:0empato:5puntaje:5
+Puntajes del equipo 3partidos jugados:5gano:0perdio:2empato:3puntaje:3
+Puntajes del equipo 4partidos jugados:5gano:0perdio:1empato:4puntaje:4
+Puntajes del equipo 5partidos jugados:5gano:0perdio:3empato:2puntaje:2
+Puntajes del equipo 6partidos jugados:5gano:0perdio:2empato:3puntaje:3
+Puntajes del equipo 7partidos jugados:5gano:0perdio:5empato:0puntaje:0
+Puntajes del equipo 8partidos jugados:5gano:0perdio:5empato:0puntaje:0
+Puntajes del equipo 9partidos jugados:5gano:0perdio:5empato:0puntaje:0
+--------------------------------------------------------------------------
+Los del equipo B:
+Puntajes del 0equipo:partidos jugados:10gano:7perdio:0empato:3puntaje:24
+Puntajes del 1equipo:partidos jugados:10gano:6perdio:0empato:4puntaje:22
+Puntajes del 2equipo:partidos jugados:10gano:6perdio:0empato:4puntaje:22
+Puntajes del 3equipo:partidos jugados:10gano:5perdio:0empato:5puntaje:20
+Puntajes del 4equipo:partidos jugados:10gano:6perdio:0empato:4puntaje:22

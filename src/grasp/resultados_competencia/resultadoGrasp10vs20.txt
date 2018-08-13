@@ -1,0 +1,66 @@
+Entradas:
+Equipo A Steps = 10
+Equipo B Steps = 20
+9 10
+33 42 -24 73 -4 70 89 -7 60 -14 38 71 82 -59 32 
+0.71 0.14 0.62
+16 79 34 -74 49 10 72 -9 33 10 51 73 97 56 3 
+0.81 0.63 0.3 
+-28 56 26 -4 35 80 5 68 33 84 14 82 46 -23 8 
+0.96 0.24 0.8
+-4 23 62 21 65 36 51 59 62 -2 39 86 52 90 46 
+0.90 0.50 0.65
+64 47 72 -9 26 -47 54 59 89 45 0 88 89 -4 34 
+0.88 0.1 0.64
+99 -29 17 10 -71 53 45 39 -12 67 60 64 79 57 -8 
+0.90 0.16 0.39
+63 73 83 28 80 80 62 24 53 41 -5 63 66 13 67 
+0.91 0.82 0.75
+97 49 41 72 89 43 23 66 36 -4 10 74 61 -58 32 
+0.86 0.36 0.48
+18 45 92 2 99 76 25 57 -25 34 26 97 32 71 54 
+0.90 0.69 0.74
+18 -57 12 50 4 69 24 37 65 37 50 78 71 -23 -65 
+0.93 0.61 0.74
+-33 20 73 2 -28 59 84 71 -67 -43 -70 73 30 73 -66 
+0.93 0.15 0.93
+-75 76 -77 90 57 -21 95 16 88 50 -1 56 -69 97 34 
+100 0.30 0.70
+-56 17 18 52 -6 -4 64 -38 31 61 40 18 49 -47 47 
+0.76 0.26 0.12
+-47 -27 29 84 79 76 56 57 61 62 46 57 23 -17 -6 
+0.95 0.10 0.40
+-80 71 42 38 34 -25 -10 -1 -76 1 -16 31 57 21 6 
+0.90 0.46 0.41
+20 14 52 43 25 -56 44 40 42 82 78 58 81 -52 63 
+0.92 0.97 0.8
+-2 -25 -3 58 68 23 62 5 41 12 8 43 50 64 19 
+0.95 0.39 0.50 
+-51 -32 28 28 -29 28 12 27 85 45 91 26 0 38 8 
+0.98 0.50 0.81
+-17 1 -20 44 -71 -21 21 -13 53 4 75 62 -12 73 -44 
+0.97 0.84 0.79
+
+
+Los del equipo A:
+Puntajes del equipo 0partidos jugados:10gano:1perdio:4empato:5puntaje:8
+Puntajes del equipo 1partidos jugados:10gano:0perdio:8empato:2puntaje:2
+Puntajes del equipo 2partidos jugados:10gano:5perdio:1empato:4puntaje:19
+Puntajes del equipo 3partidos jugados:10gano:0perdio:4empato:6puntaje:6
+Puntajes del equipo 4partidos jugados:10gano:2perdio:1empato:7puntaje:13
+Puntajes del equipo 5partidos jugados:10gano:1perdio:4empato:5puntaje:8
+Puntajes del equipo 6partidos jugados:10gano:1perdio:2empato:7puntaje:10
+Puntajes del equipo 7partidos jugados:10gano:0perdio:4empato:6puntaje:6
+Puntajes del equipo 8partidos jugados:10gano:1perdio:5empato:4puntaje:7
+--------------------------------------------------------------------------
+Los del equipo B:
+Puntajes del 0equipo:partidos jugados:9gano:4perdio:1empato:4puntaje:16
+Puntajes del 1equipo:partidos jugados:9gano:4perdio:1empato:4puntaje:16
+Puntajes del 2equipo:partidos jugados:9gano:4perdio:0empato:5puntaje:17
+Puntajes del 3equipo:partidos jugados:9gano:1perdio:3empato:5puntaje:8
+Puntajes del 4equipo:partidos jugados:9gano:5perdio:1empato:3puntaje:18
+Puntajes del 5equipo:partidos jugados:9gano:3perdio:1empato:5puntaje:14
+Puntajes del 6equipo:partidos jugados:9gano:3perdio:1empato:5puntaje:14
+Puntajes del 7equipo:partidos jugados:9gano:3perdio:1empato:5puntaje:14
+Puntajes del 8equipo:partidos jugados:9gano:2perdio:1empato:6puntaje:12
+Puntajes del 9equipo:partidos jugados:9gano:4perdio:1empato:4puntaje:16
